@@ -98,6 +98,9 @@ venv.bak/
 *.sublime-project
 *.sublime-workspace
 
+# Figure files
+*.svg
+
 # Rope project settings
 .ropeproject
 
